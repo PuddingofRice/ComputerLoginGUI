@@ -1,0 +1,20 @@
+C:\Users\OLIVERRICE\Downloads\Computer login\Computer login\bin\Debug\Computer login.exe.config
+C:\Users\OLIVERRICE\Downloads\Computer login\Computer login\bin\Debug\Computer login.exe
+C:\Users\OLIVERRICE\Downloads\Computer login\Computer login\bin\Debug\Computer login.pdb
+C:\Users\OLIVERRICE\Downloads\Computer login\Computer login\obj\Debug\Computer login.csprojAssemblyReference.cache
+C:\Users\OLIVERRICE\Downloads\Computer login\Computer login\obj\Debug\Computer_login.Form1.resources
+C:\Users\OLIVERRICE\Downloads\Computer login\Computer login\obj\Debug\Computer_login.Properties.Resources.resources
+C:\Users\OLIVERRICE\Downloads\Computer login\Computer login\obj\Debug\Computer login.csproj.GenerateResource.cache
+C:\Users\OLIVERRICE\Downloads\Computer login\Computer login\obj\Debug\Computer login.csproj.CoreCompileInputs.cache
+C:\Users\OLIVERRICE\Downloads\Computer login\Computer login\obj\Debug\Computer login.exe
+C:\Users\OLIVERRICE\Downloads\Computer login\Computer login\obj\Debug\Computer login.pdb
+C:\Users\OLIVERRICE\Downloads\Computer login ewwwww\Computer login\bin\Debug\Computer login.exe.config
+C:\Users\OLIVERRICE\Downloads\Computer login ewwwww\Computer login\bin\Debug\Computer login.exe
+C:\Users\OLIVERRICE\Downloads\Computer login ewwwww\Computer login\bin\Debug\Computer login.pdb
+C:\Users\OLIVERRICE\Downloads\Computer login ewwwww\Computer login\obj\Debug\Computer login.csprojAssemblyReference.cache
+C:\Users\OLIVERRICE\Downloads\Computer login ewwwww\Computer login\obj\Debug\Computer_login.Form1.resources
+C:\Users\OLIVERRICE\Downloads\Computer login ewwwww\Computer login\obj\Debug\Computer_login.Properties.Resources.resources
+C:\Users\OLIVERRICE\Downloads\Computer login ewwwww\Computer login\obj\Debug\Computer login.csproj.GenerateResource.cache
+C:\Users\OLIVERRICE\Downloads\Computer login ewwwww\Computer login\obj\Debug\Computer login.csproj.CoreCompileInputs.cache
+C:\Users\OLIVERRICE\Downloads\Computer login ewwwww\Computer login\obj\Debug\Computer login.exe
+C:\Users\OLIVERRICE\Downloads\Computer login ewwwww\Computer login\obj\Debug\Computer login.pdb
